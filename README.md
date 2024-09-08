@@ -34,8 +34,8 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone git@github.com:GiftMamarara/User-Employee-Frontend.git
+   cd User-Employee-Frontend
    ```
 
 2. **Install Dependencies**
